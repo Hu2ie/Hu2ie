@@ -8,7 +8,12 @@ I am an aspiring **Penetration Tester** and **Ethical Hacker**. I focus on vulne
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://jsdelivr.net" alt="C" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="C++" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="C#" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="Python" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="Go" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="JavaScript" width="50" height="50" />
 </p>
 
 ---
@@ -22,6 +27,6 @@ I am an aspiring **Penetration Tester** and **Ethical Hacker**. I focus on vulne
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://vercel.app" height="180" />
+  <img src="https://vercel.app" height="180" style="margin-right: 15px;" />
   <img src="https://vercel.app" height="180" />
 </p>
