@@ -5,15 +5,10 @@ I am an aspiring **Penetration Tester** and **Ethical Hacker**. I focus on vulne
 
 ---
 
-### 🛠️ Cyber Security Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Go" />
-  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://skillicons.dev" />
 </p>
 
 ---
@@ -27,6 +22,6 @@ I am an aspiring **Penetration Tester** and **Ethical Hacker**. I focus on vulne
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Langs" />
+  <img src="https://vercel.app" height="180" />
+  <img src="https://vercel.app" height="180" />
 </p>
