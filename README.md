@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Hu2le!
 
-<!--
-**Hu2ie/Hu2ie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🕵️‍♂️ About Me
+I am an aspiring **Penetration Tester** and **Ethical Hacker**. I focus on vulnerability research, security automation, and understanding low-level system mechanics. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Cyber Security Tech Stack
+
+#### 🚀 Scripting & Automation
+![Python](https://shields.io) 
+![Go](https://shields.io)
+*   Used for writing custom exploits, multi-threaded port scanners, and OSINT tools.
+
+#### ⚡ Low-Level & Malware Analysis
+![C](https://shields.io) 
+![C++](https://shields.io)
+*   Studied for memory corruption analysis (Buffer Overflow) and understanding reverse engineering.
+
+#### 🌐 Enterprise & Web Pentesting
+![C#](https://shields.io) 
+![JavaScript](https://shields.io)
+*   **C#**: Focused on Active Directory post-exploitation and Windows tool development.
+*   **JavaScript**: Used for exploiting client-side web vulnerabilities (XSS, CSRF, DOM-based flaws).
+
+---
+
+### 🎯 Current Focus & Platforms
+*   🎯 Practicing on **TryHackMe** & **HackTheBox**
+*   🏆 Participating in **CTF** competitions
+*   🛡️ Learning **OWASP Top 10** web vulnerabilities
+
+---
+
+### 📊 GitHub Activity
+![](https://vercel.app)
+![](https://vercel.app)
