@@ -8,14 +8,18 @@ I am an aspiring **Penetration Tester** and **Ethical Hacker**. I focus on vulne
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="C" height="120" style="margin-right: 10px; margin-bottom: 10px;" />
-  </a>
-  <img src="https://vercel.app" alt="C++" height="120" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://vercel.app" alt="C#" height="120" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://vercel.app" alt="Python" height="120" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://vercel.app" alt="Go" height="120" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://vercel.app" alt="JavaScript" height="120" style="margin-bottom: 10px;" />
+  <!-- C -->
+  <img src="https://githubusercontent.com" alt="C" width="50" height="50" style="margin-right: 15px;" />
+  <!-- C++ -->
+  <img src="https://githubusercontent.com" alt="C++" width="50" height="50" style="margin-right: 15px;" />
+  <!-- C# -->
+  <img src="https://githubusercontent.com" alt="C#" width="50" height="50" style="margin-right: 15px;" />
+  <!-- Python -->
+  <img src="https://githubusercontent.com" alt="Python" width="50" height="50" style="margin-right: 15px;" />
+  <!-- Go -->
+  <img src="https://githubusercontent.com" alt="Go" width="50" height="50" style="margin-right: 15px;" />
+  <!-- JavaScript -->
+  <img src="https://githubusercontent.com" alt="JavaScript" width="50" height="50" />
 </p>
 
 ---
